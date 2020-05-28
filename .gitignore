@@ -1,3 +1,13 @@
 .idea/
 *.iml
 target/
+.settings/
+.vscode/
+.project
+api/.settings/
+api/.classpath
+api/.factorypath
+example/.classpath
+example/.factorypath
+util/.classpath
+util/.factorypath
